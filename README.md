@@ -8,15 +8,26 @@ I'm a first-year Electronics & Telecommunication Engineering student who got pul
 Strengthening core Python and C fundamentals — writing and debugging code myself, not just prompting it
 Building web development basics from the ground up (HTML, CSS, JS)
 Exploring AI/ML concepts through hands-on projects and workshops
-🏆 Featured Project
+🏆 Achievements
 
-ML_Project_hackathon — High-Value Customer Intelligence (HVCI) Pipeline A tuned XGBoost-led stacking ensemble with threshold optimization, achieving an F1-score of 0.817. Built as part of a hackathon project applying real ML workflow — data prep, model tuning, and evaluation.
+🥈 Runner's Title — "Building AI with LLM's" Workshop 2026 Organized by the IEEE Photonics & ComSoc Joint Chapter with the Dept. of ETE, SIT Tumkur. Recognized for problem-solving and teamwork building an AI research agent under time constraints.
 
-🏅 Achievements
 🥈 2nd Place — Brewathon 2025 (AI Brewery Hackathon)
-🎯 National Cadet Corps 'A' Certificate
-🤝 Volunteer, Hack-Z — 10-hour hackathon by IEEE Photonics
-🚀 Participant, Orbit Agentic Hyperthon
+
+🤝 Volunteer — Hack-Z, a 10-hour hackathon by IEEE Photonics
+
+🚀 Participant — Orbit Agentic Hyperthon, SIT Tumkur
+
+💻 Featured Projects
+
+Apex Reflective Research Agent A self-reflective AI research agent using a ReAct (Reason + Act) loop — live web search, self-correction, and cited report generation via Gemini. Built for the ORBIT Agentic Hyperthon. Python Streamlit Gemini API
+
+HVCI Customer Intelligence Pipeline End-to-end ML classification pipeline with feature engineering, SMOTE, hyperparameter tuning, and a stacking ensemble — F1-score of 0.817, ROC-AUC of 0.903. Built for the "Building AI with LLM's" Workshop 2026 (Runner's title). Python XGBoost scikit-learn
+
+Tumkur Transit A public transport journey planner for Tumkur city, with real-time route search and an AI assistant for transit queries. React Vite Tailwind CSS
+
+MovieFlix A Netflix-inspired movie browsing platform with hero banners, genre filtering, and trailer modals — built entirely with vanilla HTML/CSS/JS, no frameworks. JavaScript CSS3
+
 📫 Reach Me
 LinkedIn: nishanthh-141540386
 Email: nishuh2008@gmail.com
