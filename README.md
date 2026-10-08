@@ -1,32 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B5CFF,100:00FFA3&height=220&section=header&text=Nishanth%20H&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=ETE%20Student%20%C2%B7%20AI%20%C2%B7%20Web%20%C2%B7%20Building%20in%20Public&descAlignY=61&descSize=18" width="100%" alt="Nishanth H banner"/>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · nishanth-h05</sub></p>
+<h1>Nishanth H</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<a href="https://github.com/nishanth-h05"> <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&width=750&height=55&lines=Hi%2C+I'm+Nishanth+H+%F0%9F%91%8B;Hackathon+Builder+%C2%B7+AI+%26+Web;Electronics+%E2%86%92+Software+%E2%86%92+AI;One+Project+at+a+Time+%F0%9F%9A%80" alt="Typing intro"/> </a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nishanth-h05&color=7B5CFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-<a href="https://github.com/nishanth-h05"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/nishanthh-141540386"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:nishuh2008@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
-
+<p><a href="https://github.com/nishanth-h05">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/251185012?u=b84e20b46939ff76d629e1b66830086ea73e2759&amp;v=4" width="180" alt="Nishanth H GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-🚀 About Me
+<h2>What teams can evaluate quickly</h2>
 
-I'm Nishanth H, an Electronics & Telecommunication Engineering student at Siddaganga Institute of Technology, Tumkur, exploring the intersection of software, AI, and real-world problem solving.
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · CSS · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>5 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>26 contributions · 8 active days</p></td>
+</tr>
+</table>
 
-I got pulled into software through hackathons and hands-on projects. I'm still early in the journey, but I enjoy learning by building, debugging my own code, and turning ideas into working prototypes.
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
-Right now, I'm focused on moving beyond simply using AI tools toward actually understanding the code, systems, and concepts underneath them.
+<h2>Proof at a glance</h2>
 
-Build → Break → Learn → Improve → Ship 🚀
-🧠 Currently Learning
-🐍 Python & C fundamentals — writing and debugging code independently
-🌐 Web development — HTML, CSS, JavaScript and modern frontend workflows
-⚛️ React & Vite — building interactive web applications
-🤖 AI / ML — practical machine learning and LLM-based applications
-🧪 Data & experimentation — Jupyter, scikit-learn and model evaluation
-🛠
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>26</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nishanth-h05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251185012%3Fu%3Db84e20b46939ff76d629e1b66830086ea73e2759%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=nishanth-h05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251185012%3Fu%3Db84e20b46939ff76d629e1b66830086ea73e2759%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Nishanth H GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nishanth-h05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251185012%3Fu%3Db84e20b46939ff76d629e1b66830086ea73e2759%26v%3D4&repos=nishanth-h05%2FML_Project_hackathon%2Cnishanth-h05%2Fmovieflix%2Cnishanth-h05%2FOrbit_hackathon%2Cnishanth-h05%2Ftumkur-transit&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=nishanth-h05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251185012%3Fu%3Db84e20b46939ff76d629e1b66830086ea73e2759%26v%3D4&repos=nishanth-h05%2FML_Project_hackathon%2Cnishanth-h05%2Fmovieflix%2Cnishanth-h05%2FOrbit_hackathon%2Cnishanth-h05%2Ftumkur-transit&v=recruiter-projects-1&mode=dark" width="100%" alt="Nishanth H selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Nishanth-H05/ML_Project_hackathon">ML_Project_hackathon</a></h3>
+<p>This project implements a High-Value Customer Intelligence (HVCI) pipeline.We utilized a tuned XGBoost-led stacking ensemble and threshold optimizatio</p>
+<p><sub>Jupyter Notebook · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/Nishanth-H05/ML_Project_hackathon">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/Nishanth-H05/movieflix">movieflix</a></h3><p>Netflix-inspired movie browsing platform with hero banners, genre filtering, and trailer modals — built with vanilla HTML/CSS/JS, no frameworks</p><p><sub>CSS · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Nishanth-H05/Orbit_hackathon">Orbit_hackathon</a></h3><p>Autonomous ReAct-based research agent using Gemini + live web search to reduce AI hallucinations. Built for ORBIT Agentic Hyperthon.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/Nishanth-H05/tumkur-transit">tumkur-transit</a></h3><p>Public transport info &amp; AI-powered journey planner for Tumkur city, built with React + Vite</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=nishanth-h05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251185012%3Fu%3Db84e20b46939ff76d629e1b66830086ea73e2759%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=nishanth-h05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251185012%3Fu%3Db84e20b46939ff76d629e1b66830086ea73e2759%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Nishanth H technology stack" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>58% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>21% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>15% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=nishanth-h05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251185012%3Fu%3Db84e20b46939ff76d629e1b66830086ea73e2759%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=nishanth-h05&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F251185012%3Fu%3Db84e20b46939ff76d629e1b66830086ea73e2759%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Nishanth H contribution activity" />
+</picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/nishanth-h05">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>Nishanth H · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
